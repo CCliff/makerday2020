@@ -1,0 +1,41 @@
+$pre: '.ank-';
+$font-size: 16px;
+
+$w_max: remify(1440px);
+
+$bp_desktop-xl: 1440px;
+$bp_mobile: 1024px;
+
+$c_white: #FFFFFF;
+$c_black: #1A1A1A;
+$c_orange: #EC5938;
+$c_accorange: #D63E1C;
+$c_darkgrey: #1A1A1A;
+$c_grey: #555151;
+$c_lightgrey: #E6E6E2;
+$c_bggrey: $c_lightgrey; // TODO: remove this dupe
+
+// Font
+$f_bodyfallback: Arial, Helvetica, sans-serif;
+$f_titlefallback: 'Times New Roman', Georgia, serif;
+$f_body: 'Libre Franklin', #{$f_bodyfallback};
+$f_title: 'IvyPresto Headline Reg', #{$f_titlefallback};
+
+//Grid
+$col_num: 12;
+$col_width: remify(1440px);
+$col_outer: 5%;
+$col_inner: remify(10px);
+
+$col_1: 100%/12;
+$col_2: 100%/12*2;
+$col_3: 100%/12*3;
+$col_4: 100%/12*4;
+$col_5: 100%/12*5;
+$col_6: 100%/12*6;
+$col_7: 100%/12*7;
+$col_8: 100%/12*8;
+$col_9: 100%/12*9;
+$col_10: 100%/12*10;
+$col_11: 100%/12*11;
+$col_12: 100%;

@@ -1,0 +1,41 @@
+{
+	"profile": {
+		"name": "",
+		"status": "",
+		"about": ""
+	},
+	"info": {
+		"photo": "",
+		"midi": "",
+		"pronouns": "",
+		"joinDate": "",
+		"birthday": "",
+		"relationship": "",
+		"kids": "",
+		"hometown": "",
+		"spiritualHome": "",
+		"actualHome": "",
+		"astrological": "",
+		"zodiac": "",
+		"highschoolStereotype": "",
+		"mood": ""
+	},
+	"secondary" : {
+		"groups": "",
+		"movies": "",
+		"music": "",
+		"tv": "",
+		"books": "",
+		"interests": "",
+		"heroes": ""
+	},
+	"ama": {
+		"topics": "",
+		"questions": [
+			{
+				"question": "Testing Question",
+				"answer": "Testing Answer"
+			}
+		]
+	}
+}

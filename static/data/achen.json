@@ -1,0 +1,157 @@
+{
+	"profile": {
+		"name": "Amy \"Kinda Goth\" Chen",
+		"status": "",
+		"about": ""
+	},
+	"info": {
+		"photo": "/images/profile/90s_amy.jpeg",
+		"midi": "/midis/head_like_a_hole.mid",
+		"pronouns": "She/They",
+		"joinDate": "01/27/2020",
+		"birthday": "July 5th, 1988",
+		"relationship": "No!",
+		"kids": "",
+		"hometown": "Los Angeles",
+		"spiritualHome": "outside the Matrix",
+		"actualHome": "Bushwick, Brooklyn",
+		"astrological": "Cancer Sun / Aries Moon / Scorpio Rising",
+		"zodiac": "Dragon",
+		"highschoolStereotype": "Emo nerd",
+		"mood": "Need more eyeliner",
+		"groups": [
+			{
+				"name": "Barbarian Creative"
+			},
+			{
+				"name": "Sustainability Support Group"
+			},
+			{
+				"name": "The Gamers"
+			},
+			{
+				"name": "Citizens for the Advancement of Noise Musice"
+			},
+			{
+				"name": "Barbarians for Raving"
+			}
+		]
+	},
+	"secondary" : {
+		"interests": "",
+		"heroes": "Neil Gaiman",
+		"movies": [
+			{
+				"name": "Fight Club"
+			},
+			{
+				"name": "Mandy"
+			},
+			{
+				"name": "The Crow"
+			},
+			{
+				"name": "Little Trouble in Big China"
+			},
+			{
+				"name": "Holy Mountain"
+			},
+			{
+				"name": "The Fly"
+			}
+		],
+		"music": [
+			{
+				"name": "Nine Inch Nails"
+			},
+			{
+				"name": "Amnesia Scanner"
+			},
+			{
+				"name": "Sega Bodega"
+			},
+						{
+				"name": "Shygirl"
+			},
+			{
+				"name": "Deli Girls"
+			},
+			{
+				"name": "Identified Patient"
+			},
+			{
+				"name": "Tzusing"
+			},
+			{
+				"name": "Chromatics"
+			},
+			{
+				"name": "Schwefelgelb"
+			},
+			{
+				"name": "Prurient"
+			},
+			{
+				"name": "Gaika"
+			},
+			{
+				"name": "Gabber Modus Operandi"
+			},
+			{
+				"name": "Mall Grab"
+			}
+		],
+		"tv": [
+			{
+				"name": "Batman Beyond"
+			},
+			{
+				"name": "Animaniacs"
+			},
+			{
+				"name": "Fresh Price of Bel-Air"
+			},
+			{
+				"name": "Sister Sister"
+			},
+			{
+				"name": "The Boondocks"
+			}
+		],
+		"books": [
+			{
+				"name": "House of Leaves (Mark Z Danielewski)"
+			},
+			{
+				"name": "White Noise (Don DeLillo)"
+			},
+			{
+				"name": "Sandman (Neil Gaiman)"
+			},
+			{
+				"name": "Brave New World (Aldous Huxley)"
+			},
+			{
+				"name": "Oryx and Crake (Margaret Atwood)"
+			}
+		]
+	},
+	"ama": {
+		"topics": "",
+		"questions": [
+			{
+				"question": "Testing Question",
+				"answer": "Testing Answer"
+			}
+		]
+	},
+	"design": {
+		"bgImage": "/images/background/matrix.gif",
+		"bgColor": "#000",
+		"section": {
+			"bgColor": "#000",
+			"borderColor": "#00FA19",
+			"color": "#00FA19"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+body {
+  font-family: $f_body;
+  color: $c_darkgrey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $f_title;
+}
+
+b {
+	font-weight: 700;
+}
+
+.grecaptcha-badge {
+  display: none !important;
+}

@@ -1,0 +1,97 @@
+{
+	"profile": {
+		"name": "Christian \"Crispy\" Clifford",
+		"status": "Busy making this site",
+		"about": ""
+	},
+	"info": {
+		"photo": "/images/profile/Christian_Clifford.webp",
+		"midi": "/midis/helena.mid",
+		"pronouns": "He/Him",
+		"joinDate": "05/27/2015",
+		"birthday": "January 22nd, 1989",
+		"relationship": "Not Married",
+		"kids": "Nah, son",
+		"hometown": "Ramsey, New Jersey",
+		"spiritualHome": "Beautiful NYC",
+		"actualHome": "Actual NYC",
+		"astrological": "Aquarius",
+		"zodiac": "",
+		"highschoolStereotype": "Slacker",
+		"mood": "Crunchy",
+		"groups": [
+			{
+				"name": "Cove"
+			},
+			{
+				"name": "Tech Geeks"
+			},
+			{
+				"name": "New Donk City"
+			}
+		]
+	},
+	"secondary" : {
+		"interests": "Music; Video Games; Board Games; Technology; English Premier League",
+		"heroes": "Edward Snowden; Thousands of people who climb Mt. Everest every year.",
+		"movies": [
+			{
+				"name": "In Bruge"
+			},
+			{
+				"name": "28 Days Later"
+			},
+			{
+				"name": "Inside Llewyn Davis"
+			}
+		],
+		"music": [
+			{
+				"name": "Frank Turner"
+			},
+			{
+				"name": "Against Me!"
+			},
+			{
+				"name": "Spanish Love Songs"
+			}
+		],
+		"tv": [
+			{
+				"name": "British Panel Shows"
+			}
+		],
+		"books": [
+			{
+				"name": "A Song of Ice and Fire"
+			},
+			{
+				"name": "Dune"
+			},
+			{
+				"name": "Pond"
+			}
+		]
+	},
+	"ama": {
+		"topics": "",
+		"questions": [
+			{
+				"question": {
+					"text": "Testing Question",
+					"asker": "Test asker"
+				},
+				"answer": "Testing Answer"
+			}
+		]
+	},
+	"design": {
+		"bgImage": "/images/background/skull.gif",
+		"bgColor": "#000000",
+		"section": {
+			"bgColor": "#000000",
+			"borderColor": "#FFFFFF",
+			"color": "#FFFFFF"
+		}
+	}
+}

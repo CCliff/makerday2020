@@ -1,0 +1,103 @@
+{
+	"profile": {
+		"name": "Jeremiah \"Nullsleep\" Johnson",
+		"status": "Busy making this site",
+		"about": ""
+	},
+	"info": {
+		"photo": "/images/profile/jjohnson.jpg",
+		"midi": "/midis/no_good_start_the_dance.mid",
+		"pronouns": "He/Him",
+		"joinDate": "11/07/2012",
+		"birthday": "10/7/1980",
+		"relationship": "In a relationship",
+		"kids": " No kids, 2 dogs",
+		"hometown": "New York City",
+		"spiritualHome": "at a rave",
+		"actualHome": "Tucson AZ",
+		"astrological": "Libra",
+		"zodiac": "Monkey",
+		"highschoolStereotype": "Loner",
+		"mood": "",
+		"groups": [
+			{
+				"name": "Barbarian Creative"
+			},
+			{
+				"name": "Barbarian Tech"
+			},
+			{
+				"name": "Hikers"
+			},
+			{
+				"name": "Reality Research Unit"
+			},
+			{
+				"name": "Junglists"
+			},
+			{
+				"name": "Barbarians for Raving"
+			}
+		]
+	},
+	"secondary" : {
+		"interests": "",
+		"heroes": "",
+		"movies": [
+			{
+				"name": "Blade Runner"
+			},
+			{
+				"name": "Holy Motors"
+			},
+			{
+				"name": "Upstream Color"
+			}
+		],
+		"music": [
+			{
+				"name": "Burial"
+			},
+			{
+				"name": "Future Sound of London"
+			},
+			{
+				"name": "Underworld"
+			}
+		],
+		"tv": [
+		],
+		"books": [
+			{
+				"name": "Pattern Recognition (Gibson)"
+			},
+			{
+				"name": "Labyrinths (Borges)"
+			},
+			{
+				"name": "How to Change Your Mind (Pollan)"
+			}
+		]
+	},
+	"ama": {
+		"topics": "",
+		"questions": [
+			{
+				"question": {
+					"text": "Testing Question",
+					"asker": "Test asker"
+				},
+				"answer": "Testing Answer"
+			}
+		]
+	},
+	"design": {
+		"bgImage": "/images/background/scanner.gif",
+		"bgColor": "#000000",
+		"section": {
+			"bgColor": "#000000",
+			"borderColor": "#FFFFFF",
+			"color": "#FFFFFF"
+		}
+	}
+}

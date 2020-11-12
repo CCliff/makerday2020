@@ -1,0 +1,11 @@
+@function nameClass($class) {
+  @return $pre + $class;
+}
+
+@function remify($px) {
+  @return $px / $font-size * 1rem;
+}
+
+@function lineHeight($fontsize, $mod: 1.25) {
+  @return remify(round($fontsize * $mod));
+}

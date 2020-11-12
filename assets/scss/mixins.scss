@@ -1,0 +1,87 @@
+@mixin gridContainer () {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: $col_outer;
+  padding-right: $col_outer;
+  max-width: $col_width;
+  margin: auto;
+}
+
+@mixin grid ($cols, $external:12, $gutters: true) {
+  $width: (100%/$col_num*$cols)/(100%/$col_num*$external)*100%;
+  $padding: $col_inner;
+  
+  flex: 0 0 $width; // flex-direction: column renders -basis useless for width
+  width: $width; // ipso facto: we need this
+  
+  @if $gutters { 
+    padding-left: $padding;
+    padding-right: $padding;
+  } @else {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@mixin gridPush ($direction, $cols, $gutters: true) {
+  @if $gutters { 
+    $padding: calc(#{(100%/$col_num*$cols) + #{$col_inner}});
+
+    @if $direction == left {
+      padding-left: $padding;
+    } @else if $direction == right {
+      padding-right: $padding;
+    }
+  } @else {
+    $padding: 100%/$col_num*$cols;
+
+    @if $direction == left {
+      padding-left: $padding;
+    } @else if $direction == right {
+      padding-right: $padding;
+    }
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$bp_mobile}) {
+    @content;
+  }
+}
+
+@mixin desktop-xl {
+  @media (min-width: #{$bp_desktop-xl}) {
+    @content;
+  }
+}
+
+@mixin print {
+  @media print {
+    @content;
+  }
+}
+
+@mixin buttonReset {
+  appearance: button;
+  color: $c_black;
+  text-align: unset;
+  background-color: transparent;
+  font: inherit;
+  padding: 0;
+  border-width: 0;
+  border-style: unset;
+  border-color: transparent;
+  border-image: initial;
+  outline: none;
+}
+
+@mixin linkStyle ($underline: true, $color: $c_accorange) {
+  font-weight: 600;
+  color: $color;
+  text-decoration: none;
+  cursor: pointer;
+
+  @if $underline {
+    &:hover { text-decoration: underline; }
+  }
+}
